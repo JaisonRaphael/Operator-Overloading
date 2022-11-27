@@ -17,8 +17,8 @@ After that print the result.
 
 ## Program:
 ```
-Developed by: S.Sham Rathan
-Register Num: 212221230093
+Developed by: Jaison Raphael.V
+Register Num: 212221230038
 
 using System;
 namespace Inheritance_Constructors
